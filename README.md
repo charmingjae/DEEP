@@ -22,3 +22,8 @@ LEARNING DEEPLEARNING :)
 
 **01.22**
 - TF Basic 학습
+
+<br/>
+
+**01.23**
+- Linear Regression 학습
