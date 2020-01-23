@@ -26,3 +26,8 @@ LEARNING DEEP-LEARNING
 
 **01.23**
 - Linear Regression 학습
+
+<br/>
+
+**01.24**
+- Load data from File
